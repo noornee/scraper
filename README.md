@@ -1,1 +1,1 @@
-# a webscraper to scrape anime from http://takanimelist.live/
+# a webscraper that scrapes anime from http://takanimelist.live/
